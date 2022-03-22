@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793968746706",
+    "project_id": "raditttttt-57871",
+    "storage_bucket": "raditttttt-57871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793968746706:android:eb799a07d075a2e2184d0b",
+        "android_client_info": {
+          "package_name": "com.raditttttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793968746706-2h83opn9an05v75jn85shoqcqpi1tfh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVnN-RwDkBtlxksmvaCHQPvkJ0S7x-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793968746706-2h83opn9an05v75jn85shoqcqpi1tfh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
